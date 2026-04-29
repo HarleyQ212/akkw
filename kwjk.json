@@ -8,7 +8,7 @@
     "endTime": "2026-04-29 00:00:00.000000",
     "nonOperationalHoursStart": "18:00:00.000000",
     "nonOperationalHoursEnd": "20:00:00.000000",
-    "minuteBreakBeforeNonOperationalHours": "15"
+    "minuteBreakBeforeNonOperationalHours": "15",
     "breakBetweenJobsSeconds": "5",
     "idleJobsSeconds": "3600"
   },
